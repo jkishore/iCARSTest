@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/san_franscisco"
+
+            android:title="San Francisco" />
+        <item
+            android:id="@+id/new_york"
+
+            android:title="New York City" />
+        <item
+            android:id="@+id/curr_loc"
+
+            android:title="Current Location" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iCARSTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="san_francisco">San Francisco</string>
+    <string name="new_york">New York</string>
+    <string name="current_loc">Current Location</string>
+</resources>
